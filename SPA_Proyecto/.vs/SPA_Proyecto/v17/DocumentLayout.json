@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\spa_proyecto\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\spa_proyecto\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\spa_proyecto\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\spa_proyecto\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|c:\\users\\fabricio armoa\\source\\repos\\spa_proyecto\\spa_proyecto\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADFCE84-5954-4972-8C38-69ADDF279102}|SPA_Proyecto.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,23 +38,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\View\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\View\\MainWindow.xaml.cs",
-              "RelativeToolTip": "View\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAADwvxkAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T01:01:06.011Z"
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-30T20:15:00.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:01:06.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserSession.cs",
-              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\UserSession.cs",
               "RelativeDocumentMoniker": "UserSession.cs",
-              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\UserSession.cs",
+              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\UserSession.cs",
               "RelativeToolTip": "UserSession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,22 +78,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\View\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\View\\MainWindow.xaml",
               "RelativeToolTip": "View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-30T00:45:52.603Z"
+              "WhenOpened": "2024-09-30T00:45:52.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\View\\LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\View\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "View\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\View\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\View\\LoginView.xaml.cs",
               "RelativeToolTip": "View\\LoginView.xaml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAUwDsAAAAzAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAxwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T20:20:33.356Z",
               "EditorCaption": ""

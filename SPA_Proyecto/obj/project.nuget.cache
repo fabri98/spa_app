@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oixgldRJFBw=",
+  "dgSpecHash": "Rtwt9YK6l6o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabricio Armoa\\source\\repos\\SPA_Proyecto\\SPA_Proyecto.csproj",
+  "projectFilePath": "C:\\Users\\Fabricio Armoa\\source\\repos\\Spa_proyecto\\SPA_Proyecto\\SPA_Proyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fabricio Armoa\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Fabricio Armoa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
