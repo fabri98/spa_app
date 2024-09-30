@@ -93,7 +93,7 @@ namespace SPA_Proyecto.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SPA_Proyecto;V1.0.0.0;component/view/loginview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SPA_Proyecto;component/view/loginview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\LoginView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Fabricio Armoa\source\repos\Spa_proyecto\SPA_Proyecto\obj\Debug\net8.0-windows\
+C:\Users\Fabricio Armoa\source\repos\Spa_proyecto\SPA_Proyecto\obj\Release\net8.0-windows\
 SPA_Proyecto
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\Fabricio Armoa\source\repos\Spa_proyecto\SPA_Proyecto\App.xaml
 2-1518508563
 
-26-456169453
+26-464788385
 2141425227888
 View\LoginView.xaml;View\MainWindow.xaml;
 
