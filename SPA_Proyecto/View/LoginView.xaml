@@ -16,7 +16,7 @@
 
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\Fabricio Armoa\source\repos\SPA_Proyecto\images\masaje_de_cara.jpg"
+            <ImageBrush ImageSource="C:\Users\Fabricio Armoa\source\repos\Spa_proyecto\SPA_Proyecto\images\masaje_de_cara.jpg"
                         Stretch="Fill"/>
         </Border.Background>
     <Border CornerRadius="10"
@@ -166,7 +166,7 @@
                              Margin="0,5,0,0"
                              Padding="30,0,0,0">
                         <TextBox.Background>
-                            <ImageBrush ImageSource="C:\Users\Fabricio Armoa\source\repos\SPA_Proyecto\images\user.png"
+                            <ImageBrush ImageSource="C:\Users\Fabricio Armoa\source\repos\Spa_proyecto\SPA_Proyecto\images\user.png"
                                         Stretch="Uniform"
                                         AlignmentX="Left"/>
                         </TextBox.Background>
@@ -193,7 +193,7 @@
                                  Margin="0,5,0,0"
                                  Padding="30,0,0,0">
                         <PasswordBox.Background>
-                            <ImageBrush ImageSource="C:\Users\Fabricio Armoa\source\repos\SPA_Proyecto\images\key-icon.png"
+                            <ImageBrush ImageSource="C:\Users\Fabricio Armoa\source\repos\Spa_proyecto\SPA_Proyecto\images\key-icon.png"
                                         Stretch="Uniform"
                                         AlignmentX="Left"/>
                         </PasswordBox.Background>
